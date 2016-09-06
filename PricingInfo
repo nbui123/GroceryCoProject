@@ -1,0 +1,12 @@
+
+item=banana; regularPrice=3; promoCode=1; promoPrice=1
+item=banana; regularPrice=2;  promoCode=4
+item=apple pie; regularPrice=2; promoCode=1; promoPrice=1
+item=cherri; regularPrice=2; promoCode=2; promoPrice=1; quantityRequired=3
+item=cheese; regularPrice=2; promoCode=3; promoPrice=1; 
+
+ 
+
+
+
+item=orange; regularPrice=2;

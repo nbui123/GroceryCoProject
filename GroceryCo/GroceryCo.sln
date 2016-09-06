@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCo", "GroceryCo\GroceryCo.csproj", "{89D06DF5-25EF-48EA-999F-75FF1B0126BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCoTest", "GroceryCoTest\GroceryCoTest.csproj", "{5B71597D-0942-4DD0-9780-C35CC54FABFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B71597D-0942-4DD0-9780-C35CC54FABFE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5B71597D-0942-4DD0-9780-C35CC54FABFE}.Debug|x86.Build.0 = Debug|Any CPU
+		{5B71597D-0942-4DD0-9780-C35CC54FABFE}.Release|x86.ActiveCfg = Release|Any CPU
+		{5B71597D-0942-4DD0-9780-C35CC54FABFE}.Release|x86.Build.0 = Release|Any CPU
+		{89D06DF5-25EF-48EA-999F-75FF1B0126BB}.Debug|x86.ActiveCfg = Debug|x86
+		{89D06DF5-25EF-48EA-999F-75FF1B0126BB}.Debug|x86.Build.0 = Debug|x86
+		{89D06DF5-25EF-48EA-999F-75FF1B0126BB}.Release|x86.ActiveCfg = Release|x86
+		{89D06DF5-25EF-48EA-999F-75FF1B0126BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

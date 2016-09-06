@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="GroceryCo/GroceryCo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroceryCoTest/Test.cs">
+    <Files>
+      <File FileName="GroceryCoTest/Test.cs" Line="3" Column="7" />
+      <File FileName="GroceryCo/GroceryItemData.cs" Line="1" Column="1" />
+      <File FileName="GroceryCo/Program.cs" Line="1" Column="1" />
+      <File FileName="GroceryCo/ShoppingBasket.cs" Line="1" Column="1" />
+      <File FileName="GroceryCo/PromoReducePrice.cs" Line="1" Column="1" />
+      <File FileName="GroceryCo/PromoBuyOneGetOneFree.cs" Line="1" Column="1" />
+      <File FileName="GroceryCo/IPromotion.cs" Line="1" Column="1" />
+      <File FileName="GroceryCo/PromoUtil.cs" Line="1" Column="1" />
+      <File FileName="GroceryCo/MoneyRounderUtil.cs" Line="1" Column="1" />
+      <File FileName="../../Pason/test1.cs" Line="1" Column="1" />
+      <File FileName="../../../RandomListGenerater/RandomTest/RandomIntGeneratorTest.cs" Line="1" Column="1" />
+      <File FileName="../../../RandomListGenerater/RandomTest/RandomListGeneratorTest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

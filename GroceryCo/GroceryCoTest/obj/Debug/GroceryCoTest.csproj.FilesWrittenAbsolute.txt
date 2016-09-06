@@ -1,0 +1,8 @@
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCoTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCoTest/bin/Debug/GroceryCoTest.dll.mdb
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCoTest/bin/Debug/GroceryCoTest.dll
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCoTest/obj/Debug/GroceryCoTest.dll
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCoTest/obj/Debug/GroceryCoTest.dll.mdb
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCoTest/bin/Debug/nunit.framework.dll
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCoTest/bin/Debug/GroceryCo.exe
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCoTest/bin/Debug/GroceryCo.exe.mdb

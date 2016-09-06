@@ -1,0 +1,46 @@
+Programed by Nhu Bui
+
+How to run program:
+Program was written with the MonoDevelop Ide. To run the program, open the GroceryCo.sln project in MonoDevelop Ide or Visual Studios and press play.   
+
+
+Grocery Pricing Info:
+The program will load the file PricingInfo attached. This file contains the pricing info of each grocery items. You may update the file to load your own pricing info, but it has to be in this format: 
+1.item has to be the first string in the line
+2.Must contain info on regularPrice
+3.Information must be separated by a semi colon
+4.Any invalid entry will be ignored.
+
+ie. 
+//no promo
+item=apple; regularPrice=1.50;
+
+//promo 1 = reduced price
+item=apple; regularPrice=1.50; promoCode=1; promoPrice=1
+
+//promo 1 = reduced price
+//item=apple; regularPrice=1.50; promoCode=1; promoPrice=1
+
+//promo 2 = buy 3 apple at $1
+//item=apple; regularPrice=1.50; promoCode=2; promoPrice=3; quantityRequired=3
+
+//promo 3 = buy 1 get 1 free
+//item=apple; regularPrice=1.50; promoCode=3
+
+//promo 4 = buy 1 get 1 %50 off
+//item=apple; regularPrice=1.50; promoCode=4
+
+If the same item appears again, the later item information will be used.
+
+
+Shopping List: 
+The program will ask you for the file name of the file containing the grocery list. The file FoodList is provided as a example. Each item is not case-sensitive but it is white-space sensitive.
+If the food item is not found with any price information, it will display an error message for the food item before printing the receipt. 
+
+ie. "apple" != " apple" 
+    "Apple Pie" == "apple pie"
+
+
+
+Unit Tests:
+I am aware that there should be more files that needs testing, but I created GroceryItemDataTest and ShoppingBasketTest. I hope those tests are good enough to shows my capabilities in writing unit tests. 

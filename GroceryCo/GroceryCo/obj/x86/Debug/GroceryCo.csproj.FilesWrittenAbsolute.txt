@@ -1,0 +1,5 @@
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCo/bin/Debug/GroceryCo.exe.mdb
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCo/bin/Debug/GroceryCo.exe
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCo/obj/x86/Debug/GroceryCo.exe
+/home/nhu/interview/BlatantMedia/GroceryCo/GroceryCo/obj/x86/Debug/GroceryCo.exe.mdb
